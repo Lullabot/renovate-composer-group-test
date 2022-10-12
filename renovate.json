@@ -2,18 +2,5 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
-  ],
-  "prConcurrentLimit": 5,
-  "rangeStrategy": "bump",
-  "packageRules": [
-    {
-      "matchPackagePrefixes": ["stylelint"],
-      "groupName": "Stylelint packages"
-    },
-    {
-      "matchPackageNames": ["drupal/core", "drupal/core-recommended", "drupal/core-composer-scaffold"],
-      "groupName": "Drupal Core"
-    }
   ]
-
 }
