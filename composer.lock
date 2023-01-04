@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b6f7d1ab9de040bd83e90e73eaa80a9",
+    "content-hash": "5547746b99122785f23ceda7aca5daf6",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -781,20 +781,20 @@
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "9.4.3",
+            "version": "10.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
-                "reference": "5f37a9e4008b34e3e4f6bb34ce0b3f7e5ec8984f"
+                "reference": "e3f17745ab88a919f5179e6d9c1ac8ce77d3845f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-composer-scaffold/zipball/5f37a9e4008b34e3e4f6bb34ce0b3f7e5ec8984f",
-                "reference": "5f37a9e4008b34e3e4f6bb34ce0b3f7e5ec8984f",
+                "url": "https://api.github.com/repos/drupal/core-composer-scaffold/zipball/e3f17745ab88a919f5179e6d9c1ac8ce77d3845f",
+                "reference": "e3f17745ab88a919f5179e6d9c1ac8ce77d3845f",
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "^1 || ^2",
+                "composer-plugin-api": "^2",
                 "php": ">=7.3.0"
             },
             "conflict": {
@@ -825,9 +825,9 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/9.4.3"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/10.0.1"
             },
-            "time": "2022-06-19T16:14:23+00:00"
+            "time": "2022-07-01T08:33:05+00:00"
         },
         {
             "name": "drupal/core-recommended",
